@@ -1,0 +1,14 @@
+div{
+    color: tomato;
+    background-color: aquamarine;
+    padding: 20px;
+    font-size:large;
+    margin: 20px;
+    border: 10px dotted green;
+    border-radius: 50px;
+
+}
+#a{
+    font-weight: bold;
+    color: blue;
+}
